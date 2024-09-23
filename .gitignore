@@ -4,3 +4,5 @@
 *.mbp-1.csv
 equity-data/
 data.csv
+*.zst
+*.pkl
